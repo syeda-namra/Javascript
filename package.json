@@ -10,5 +10,14 @@
   "dependencies": {
     "express": "^4.18.2"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syeda-namra/Javascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syeda-namra/Javascript/issues"
+  },
+  "homepage": "https://github.com/syeda-namra/Javascript#readme",
   "description": ""
 }
