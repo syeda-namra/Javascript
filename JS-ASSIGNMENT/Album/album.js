@@ -32,9 +32,11 @@ function make_album(artistName,albumTitle, trackNumber= null ){
         musicAlbum['Numbers of Tracks'] = trackNumber
     }
 
-    console.log(musicAlbum);
+    return musicAlbum;
 }
 
-make_album("Atif Aslam", "DOURI", 4);
+album1= make_album("Atif Aslam", "DOURI", 4);
+console.log(album1);
 
-make_album("Michael Jaksob","Life");
+album2= make_album("Michael Jaksob","Life");
+console.log(album2);
