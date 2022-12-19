@@ -1,0 +1,41 @@
+node -v
+
+npm i typescript -g //global
+
+tsc -v
+
+github
+
+
+npm init -y // npm installation
+mkdir prg1  //making directory
+cd prg1 // change directory
+tsc --init // typescript configuration 
+tsc
+dir	
+
+
+step 3d
+tsconfig.json
+change module & moduleResolution
+"module":"NodeNext"
+"moduleResolution":"NodeNext"
+& add type after main
+"type":"module",
+
+step 3c
+npm i inquirer
+//if error 
+"target":"es2022"
+npm i @types/inquirer -d //normal dependency
+npm i @types/inquirer -D //developer dependency
+
+step 3d
+npx firequiz
+
+
+npm i chalk 
+
+to execute ts related file
+node filename.js
+

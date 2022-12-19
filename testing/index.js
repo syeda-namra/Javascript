@@ -1,5 +1,16 @@
-alert("Trigger");
+// alert("Trigger");
 
-alert("note");
+// alert("note");
 
-window.alert(24);
+// window.alert(24);
+
+function names(*nam){
+    nam.forEach(nam  => {
+        
+    });
+        console.log("Hi",nam)
+    }
+    console.log("Hi",nam)
+
+
+names("namra","zayan","rohan")
